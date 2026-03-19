@@ -7,7 +7,7 @@
 
 <body>
     <h1>Formulario de Contacto</h1>
-    <form action="/contacto" method="POST">
+    <form action="/" method="POST">
         @csrf
         <label for="name">Nombre:</label><br>
         <input type="text" id="name" name="name"><br><br>
