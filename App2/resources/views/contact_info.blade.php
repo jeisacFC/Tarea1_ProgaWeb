@@ -13,7 +13,7 @@
     <p><strong>Email:</strong> {{ $data['email'] }}</p>
     <p><strong>Estado Civil:</strong> {{ $data['marital_status'] }}</p>
     <br>
-    <a href="/contacto">Volver al formulario</a>
+    <a href="/">Volver al formulario</a>
 </body>
 
 </html>
